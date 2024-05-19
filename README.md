@@ -14,7 +14,5 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - **Link:** [Read the article](https://www.sciencedirect.com/science/article/pii/S0040816621001695)
 ### Model Evaluation with Random Images
 ![images](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/evaluation.png)
-### Loading the Model and Evaluation with Selected Images
-![selected](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/selected_images.png)
-### Accuracy & Loss Plot
-![Accuracy & Loss plot](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/accuracy_loss_plot.png)
+### IoU & Dice coefficient Plot
+![IoU & Dice plot]()
