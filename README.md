@@ -1,5 +1,5 @@
 # Blood Cell Segmentation
-In this project, I only wanted to measure the performance of the architecture that I used in the project of [segmenting breast lesions](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation) on the segmentation of blood cells.
+In this project, I tried to segment the blood cells in the image.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/jeetblahiri/bccd-dataset-with-mask).
 ### Citation: 
