@@ -12,6 +12,17 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - **ISSN:** 0040-8166
 - **DOI:** [10.1016/j.tice.2021.101653](https://doi.org/10.1016/j.tice.2021.101653)
 - **Link:** [Read the article](https://www.sciencedirect.com/science/article/pii/S0040816621001695)
+
+  ### Tools and Libraries Used
+- Python 3.6.15
+- numpy 1.19.2
+- pandas 1.1.5
+- opencv 3.4.2
+- scikit-learn 0.24.2
+- keras 2.3.1
+- tqdm 4.64.1
+- matplotlib 3.3.4
+
 ### Model Evaluation with Random Images
 ![images](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/evaluation.png)
 ### IoU & Dice coefficient Plot
