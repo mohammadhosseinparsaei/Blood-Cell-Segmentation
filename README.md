@@ -1,5 +1,7 @@
 # Blood Cell Segmentation
 In this project, I tried to segment the blood cells in the image.
+### Approach
+For training and testing the image segmentation model, a U-Net neural network architecture has been employed using the Keras library.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/jeetblahiri/bccd-dataset-with-mask).
 ### Citation: 
