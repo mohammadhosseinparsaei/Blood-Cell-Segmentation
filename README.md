@@ -28,4 +28,4 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 ### Model Evaluation with Random Images
 ![images](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/evaluation.png)
 ### IoU & Dice coefficient Plot
-![IoU & Dice plot]()
+![IoU & Dice plot](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/iou_dice_plot.png)
