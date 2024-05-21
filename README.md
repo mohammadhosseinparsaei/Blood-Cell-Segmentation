@@ -1,5 +1,5 @@
 # Blood Cell Segmentation
-In this project, I tried to segment the blood cells in the image.
+In this exercise, I tried to segment the blood cells present in microscopic images.
 ### Approach
 For training and testing the image segmentation model, a U-Net neural network architecture has been employed using the Keras library.
 ### Data Access
