@@ -1,4 +1,12 @@
-# Blood Cell Segmentation
+<div class="container">
+    <div class="title-container">
+        <h1>Blood Cell Segmentation</h1>
+    </div>
+    <div class="image-container">
+        <img src="https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/sample%20image.png" alt="Blood Cell Sample" width="200" align="right">
+    </div>
+</div>
+
 In this exercise, I tried to segment the blood cells present in microscopic images.
 ### Approach
 For training and testing the image segmentation model, a U-Net neural network architecture has been employed using the Keras library.
