@@ -34,6 +34,7 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - matplotlib 3.3.4
 
 ### Model Evaluation with Random Images
-![images](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/evaluation.png)
+<img src="https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/evaluation.png" alt="images" width="600"/>
+
 ### IoU & Dice coefficient Plot
-![IoU & Dice plot](https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/iou_dice_plot.png)
+<img src="https://github.com/mohammadhosseinparsaei/Blood-Cell-Segmentation/blob/main/iou_dice_plot.png" alt="IoU & Dice plot" width="600"/>
